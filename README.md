@@ -4,3 +4,6 @@ This project focuses on developing IoT devices using electronic components. Thes
 
 The repository includes the necessary files and code for creating custom PCB layouts and schematics using KiCad, an open-source electronic design automation (EDA) software.
 
+## Neurai Sponsors Kicad since 2024
+
+https://www.kicad.org/sponsors/sponsors/
